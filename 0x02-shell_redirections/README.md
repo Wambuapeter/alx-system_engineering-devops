@@ -1,0 +1,1 @@
+This directory is about i/o redirection
